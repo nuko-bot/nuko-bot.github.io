@@ -40,3 +40,6 @@ var currentScrollPos = window.pageYOffset;
   }
   prevScrollpos = currentScrollPos;
 }
+function Soon(){
+  alert("Coming Soon!")
+}
